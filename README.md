@@ -17,9 +17,9 @@ In this paper, we delve into the potential of parallel computing paradigms, spec
 All equations, approximations and boundary condition equations can be found in the `LBM_Report.pdf` file included in the report. The report also details the parallelism stratergy and results which shall be briefly discussed here.
 
 ## Authors
-Rudra Panch - IIT Madras(Main contributor)
-Om Raul Deepak - IIT Madras
-Rachit Kumar - IIT Madras
+- Rudra Panch - IIT Madras(Main contributor)
+- Om Raul Deepak - IIT Madras
+- Rachit Kumar - IIT Madras
 
 ## Parallelsim Strategy
 
